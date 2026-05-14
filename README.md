@@ -1,5 +1,6 @@
-# 一覧
+# サイト一覧
 
+### youtube系
 - わかめtube https://github.com/kuru-sabu/wkt
 - わかめtube Plus https://github.com/kuru-sabu/wkt-Plus
 - しあtube https://github.com/kuru-sabu/sia-tube
@@ -24,3 +25,11 @@
 - Wool-tube https://github.com/kuru-sabu/Wool-Tube-Normal
 - Wool-tuube-education https://github.com/kuru-sabu/wooltube-education
 - 仲良しtube https://github.com/kuru-sabu/Nakayosi-tube
+
+### Proxy系
+- 仙人proxy https://github.com/kuru-sabu/Sennin-proxy
+- MIN-tube-proxy https://github.com/kuru-sabu/MIN-Tube-Pro
+- Science https://github.com/kuru-sabu/Science
+- JWP https://github.com/kuru-sabu/light-jwp
+- Yoroxy https://github.com/kuru-sabu/Yoroxy
+- UV-staick https://github.com/kuru-sabu/UV-Static-2.0
