@@ -17,6 +17,7 @@
 - Youtube-Plus+ https://github.com/kuru-sabu/YouTube-Plus-Plus
 - Yuki-Youtube+ https://github.com/kuru-sabu/new-yu-yu
 - K-tube https://github.com/kuru-sabu/K-tube-For-public-release
+- れんれんtube https://github.com/kuru-sabu/Renrentube
 - Yuzu-Tube https://github.com/kuru-sabu/yuzutube
 - Choco-Tube https://github.com/kuru-sabu/choco-tube
 - Scrsa-Tube https://github.com/kuru-sabu/scrsa-tube
