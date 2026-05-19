@@ -26,10 +26,20 @@
 - Wool-tuube-education https://github.com/kuru-sabu/wooltube-education
 - 仲良しtube https://github.com/kuru-sabu/Nakayosi-tube
 
-### Proxy系
+### Proxy系(for deploy)
 - 仙人proxy https://github.com/kuru-sabu/Sennin-proxy
 - MIN-tube-proxy https://github.com/kuru-sabu/MIN-Tube-Pro
 - Science https://github.com/kuru-sabu/Science
 - JWP https://github.com/kuru-sabu/light-jwp
 - Yoroxy https://github.com/kuru-sabu/Yoroxy
 - UV-staick https://github.com/kuru-sabu/UV-Static-2.0
+### Proxy(server有)
+- ShadowV3 https://github.com/kuru-sabu/ShadowV3
+- Rammerhead https://github.com/kuru-sabu/rammerhead
+- Utopia https://github.com/kuru-sabu/Utopia
+- Interstellar https://github.com/kuru-sabu/Interstellar
+- Dogeub https://github.com/kuru-sabu/dogeub
+- DDX https://github.com/kuru-sabu/DayDreamX
+- Shuttle https://github.com/kuru-sabu/shuttle
+- Taco proxy https://github.com/kuru-sabu/TacoProxy
+- 
